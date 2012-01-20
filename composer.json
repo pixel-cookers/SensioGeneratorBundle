@@ -1,5 +1,5 @@
 {
-    "name": "sensio/generator-bundle",
+    "name": "pixel-cookers/generator-bundle",
     "description": "Generates Symfony2 bundles, entities, forms, CRUD, and more...",
     "keywords": ["code generation"],
     "type": "symfony-bundle",
